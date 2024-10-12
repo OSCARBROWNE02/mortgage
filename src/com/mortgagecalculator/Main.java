@@ -9,6 +9,7 @@ public class Main {
         final byte MONTHS_IN_YEAR = 12;
         final byte PERCENT = 100;
 
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Principal: ");
         int startPrincipal = scanner.nextInt();
